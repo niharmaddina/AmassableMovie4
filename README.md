@@ -13,11 +13,9 @@ LLM agents, and the engineering around them (evaluation, cost control, tests).
 
 | Project | What it is |
 |---|---|
-| [agent-eval](https://github.com/niharmaddina/agent-eval) | Offline-first harness for evaluating tool-calling LLM agents: deterministic tool sandbox, tiered task suite, budgets, metrics and reports. |
-| [rl-lab](https://github.com/niharmaddina/rl-lab) | Reproducible reinforcement-learning experiments (DQN, PPO) with seeds, configs, learning curves and a results table. |
-| [HideAndSeekGym](https://github.com/niharmaddina/HideAndSeekGym) | A small 3D hide-and-seek Gymnasium environment on PyBullet, trained with PPO. |
+| [HideAndSeekGym](https://github.com/niharmaddina/HideAndSeekGym) | A small 3D hide-and-seek Gymnasium environment with a dependency-free backend for training and an optional PyBullet backend for visualisation, plus PPO baselines with learning curves. |
 | [HackUSF](https://github.com/niharmaddina/HackUSF) | Skin-lesion classifier built in 24 hours at HackUSF 2025: ResNet50, DenseNet121 and MobileNetV3 fine-tuned on seven lesion classes, combined by majority vote. |
-| [ai-ml-track](https://github.com/niharmaddina/ai-ml-track) | A three-tier applied-ML project track with cloud deployment guides and a CI template, written as curriculum for student engineers. |
+| [Liquidity](https://github.com/niharmaddina/Liquidity) | Next-day price prediction with a liquid neural network and a neural ODE, served by FastAPI over a websocket to a React chart (2024 research prototype). |
 
 Work at Cai Creative, Atlas and MyCove lives in private repositories.
 
