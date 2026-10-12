@@ -15,6 +15,7 @@ LLM agents, and the engineering around them (evaluation, cost control, tests).
 |---|---|
 | [HideAndSeekGym](https://github.com/niharmaddina/HideAndSeekGym) | A small 3D hide-and-seek Gymnasium environment with a dependency-free backend for training and an optional PyBullet backend for visualisation, plus PPO baselines with learning curves. |
 | [HackUSF](https://github.com/niharmaddina/HackUSF) | Skin-lesion classifier built in 24 hours at HackUSF 2025: ResNet50, DenseNet121 and MobileNetV3 fine-tuned on seven lesion classes, combined by majority vote. |
+| [quant-strategy-framework](https://github.com/niharmaddina/quant-strategy-framework) | Swing and mean-reversion strategy research in Python: backtesting with legacy and VectorBT engines, indicator sets, frozen universes to limit survivorship bias, ML signal-quality utilities, 147 tests. With Tushar Gona. |
 | [Liquidity](https://github.com/niharmaddina/Liquidity) | Next-day price prediction with a liquid neural network and a neural ODE, served by FastAPI over a websocket to a React chart (2024 research prototype). |
 
 Work at Cai Creative, Atlas and MyCove lives in private repositories.
