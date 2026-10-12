@@ -13,6 +13,7 @@ LLM agents, and the engineering around them (evaluation, cost control, tests).
 
 | Project | What it is |
 |---|---|
+| [rl-lab](https://github.com/niharmaddina/rl-lab) | Reproducible reinforcement-learning baselines: DQN and PPO on CartPole, Acrobot and LunarLander with seeds, pinned configs, held-out evaluation, learning curves and a results table that reports the non-converged case as plainly as the converged ones. |
 | [HideAndSeekGym](https://github.com/niharmaddina/HideAndSeekGym) | A small 3D hide-and-seek Gymnasium environment with a dependency-free backend for training and an optional PyBullet backend for visualisation, plus PPO baselines with learning curves. |
 | [HackUSF](https://github.com/niharmaddina/HackUSF) | Skin-lesion classifier built in 24 hours at HackUSF 2025: ResNet50, DenseNet121 and MobileNetV3 fine-tuned on seven lesion classes, combined by majority vote. |
 | [quant-strategy-framework](https://github.com/niharmaddina/quant-strategy-framework) | Swing and mean-reversion strategy research in Python: backtesting with legacy and VectorBT engines, indicator sets, frozen universes to limit survivorship bias, ML signal-quality utilities, 147 tests. With Tushar Gona. |
